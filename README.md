@@ -1,2 +1,3 @@
-# Hello_Kitty_Calculator
-🎀😻 Hello Kitty Calculator: HTML+CSS+JS 😻🎀
+# Hello Kitty cute calculator 🎀
+
+Download and open html archive (Chrome, Firefox...)
