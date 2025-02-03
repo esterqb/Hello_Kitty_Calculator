@@ -1,0 +1,50 @@
+#container{
+    background-color: pink;
+    border: 3px solid palevioletred;
+    border-radius: 5px;
+    width: 30vw;
+    height: 90vh;
+    margin: 2%;
+}
+#brand{
+    justify-content: space-between;
+    margin: 0.5% 0 0 0;
+    display: flex;
+    flex-direction: row;
+
+}
+.casio{
+    width: 30%;
+    margin: 0 0 0 5%;
+}
+.hk{
+    width: 20%;
+    margin: 0 5% 0 0;
+}
+#console{
+    border: 2px solid #f6f6f6;
+    background-color: #d8d8d8;
+    width: 90%;
+    height: 5vw;
+    margin: 0 auto;
+    color:#9d9d9d;
+    border-radius: 5px;
+    padding: 3%;
+    font-size: 40px;
+}
+.linea1,.linea2,.linea3,.linea4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 5% 0 0 0;
+}
+button{
+    background-color: #f6f6f6;
+    border: 2px solid palevioletred;
+    border-radius: 5px;
+    color:palevioletred;
+    font-size: 16px;
+    font-weight: bold;
+    width: 4vw;
+    height:4vw;
+}
